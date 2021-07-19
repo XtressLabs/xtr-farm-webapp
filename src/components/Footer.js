@@ -9,7 +9,7 @@ const Footer = (props) => {
       <h4>
         {t('footer')}
         <a
-          href="https://www.linuxfoundation.org/projects/call-for-code/"
+          href="#"
           rel="noopener noreferrer"
           target="_blank"
         >
