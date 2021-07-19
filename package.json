@@ -1,8 +1,8 @@
 {
-  "name": "thehelpnetwork.org",
+  "name": "farm.xtressials.tech",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thn.xtressials.tech",
+  "homepage": "https://farm.xtressials.tech",
   "dependencies": {
     "@carbon/grid": "^10.27.0",
     "@carbon/icons-react": "^10.32.0",

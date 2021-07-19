@@ -22,8 +22,8 @@ const _Header = () => {
       </HeaderName>
 
       <HeaderNavigation aria-label="Launch Dashboard">
-        <HeaderMenuItem target="_blank" href="https://help-portal.xtressials.tech">
-          Launch Help Portal
+        <HeaderMenuItem target="_blank" href="https://health-portal.xtressials.tech">
+          Launch Farm Portal
         </HeaderMenuItem>
       </HeaderNavigation>
 

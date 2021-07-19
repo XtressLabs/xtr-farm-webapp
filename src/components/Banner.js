@@ -11,7 +11,7 @@ const Banner = () => {
       <div className="landing__openEEW">
         <div className="landing__openEEWWrapper">
           <img src={openeew_logo} alt="OpenEEW Logo" />
-          <h1>TheHelpNetwork</h1>
+          <h1>XtressFarm</h1>
         </div>
       </div>
       <div className="landing__mission">
