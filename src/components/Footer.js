@@ -9,7 +9,7 @@ const Footer = (props) => {
       <h4>
         {t('footer')}
         <a
-          href="#"
+          href="https://xtressials.tech/home/opensource/"
           rel="noopener noreferrer"
           target="_blank"
         >
